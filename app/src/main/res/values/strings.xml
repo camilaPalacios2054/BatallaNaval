@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BatallaNaval</string>
+    <string name="play">Jugar</string>
+    <string name="back">Volver al menú</string>
+    <string name="back2">Volver</string>
+    <string name="exit">Salir</string>
+    <string name="battle">Ir a batalla </string>
+    <string name="bTableroJugador">Tablero Jugador</string>
+    <string name="bTableroEnemigo">Tablero Enemigo</string>
+    <string name="textoJugadorinicio">Bienvenido!</string>
+</resources>
