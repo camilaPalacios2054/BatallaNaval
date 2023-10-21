@@ -38,6 +38,11 @@ public class Juego extends AppCompatActivity {
         tablero2 = findViewById(R.id.gTableroEnemigo);
 
 
+        ////////////////////
+        /////////////////
+        /////////////////
+
+
 
 
         battle.setOnClickListener(new View.OnClickListener() {
