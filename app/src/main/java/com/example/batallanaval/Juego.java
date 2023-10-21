@@ -42,9 +42,6 @@ public class Juego extends AppCompatActivity {
         /////////////////
         /////////////////
 
-
-
-
         battle.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
